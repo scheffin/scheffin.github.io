@@ -19,7 +19,7 @@ Conference on Extreme Value Analysis – Chapel Hill, USA
 
 ::: {.talk-links}
 [Website](https://eva2025.unc.edu/){.talk-btn target="_blank" rel="noopener noreferrer"}
-[Slides](slides/eva2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_eva_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
@@ -38,7 +38,7 @@ German Probability and Statistics Days – Dresden, Germany
 :::
 
 ::: {.talk-links}
-[Slides](slides/gpsd2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_gpsd_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
@@ -58,7 +58,27 @@ ECOSTA – online
 
 ::: {.talk-links}
 [Website](https://www.cmstatistics.org/EcoSta2025/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
-[Slides](slides/ecosta2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_ecosta_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-abbr}
+Bochum
+:::
+::: {.talk-body}
+::: {.talk-title}
+SPP 2265 Workshop: Geometric extreme value theory – Bochum, Germany
+:::
+
+::: {.talk-date}
+2024
+:::
+
+::: {.talk-links}
+[Website](https://sites.google.com/view/geometric-extremes-bochum/home){.talk-btn target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_geometric_extremes_2024.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
@@ -78,7 +98,7 @@ CMStatistics – Berlin, Germany
 
 ::: {.talk-links}
 [Website](https://www.cmstatistics.org/CMStatistics2023/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
-[Slides](slides/cmstatistics2023.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_cmstatistics_2023.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
