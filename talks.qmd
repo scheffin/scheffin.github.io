@@ -69,7 +69,8 @@ Bochum
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-SPP 2265 Workshop: Geometric extreme value theory – Bochum, Germany
+SPP 2265 Workshop: Geometric extreme value theory –
+Ruhr University Bochum, Germany
 :::
 
 ::: {.talk-date}
