@@ -16,9 +16,9 @@ website:
         text: Talks
       - href: cv.qmd
         text: CV
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
-    link-external-newwindow: true
