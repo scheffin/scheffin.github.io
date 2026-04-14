@@ -2,18 +2,19 @@
 title: "Ioan Scheffel"
 ---
 
+::: {.columns}
+::: {.column width="65%"}
 I am a PhD candidate in mathematics at the University of Stuttgart. My research focuses on stochastic processes, extreme value theory, and time series.
 
 I am currently finishing my PhD and looking for postdoctoral positions.
-
-## Research interests
-
-- Extreme value theory
-- Stochastic processes
-- Time series
-- Point processes
 
 ## Contact
 
 Email: your.email@domain
 Affiliation: University of Stuttgart
+:::
+
+::: {.column width="35%"}
+![](photo.jpg){width="250"}
+:::
+:::
