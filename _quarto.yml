@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Ioan Scheffel"
-   navbar:
+  navbar:
     left:
       - href: index.qmd
         text: Home
