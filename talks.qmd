@@ -47,6 +47,19 @@ Extending Brown-Resnick stationarity to the max-domain of attraction
 
 ::: {.talk-entry}
 ::: {.talk-date}
+2024
+:::
+::: {.talk-main}
+**SPP 2265 Workshop: Geometric extreme value theory**, Bochum, Germany
+
+Extending Brown-Resnick Stationarity to Maximum Domain of Attraction
+
+[Website](https://sites.google.com/view/geometric-extremes-bochum/home){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.talk-entry}
+::: {.talk-date}
 2023
 :::
 ::: {.talk-main}
