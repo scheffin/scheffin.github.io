@@ -12,6 +12,7 @@ title: "CV"
 **PhD in Mathematics**, University of Stuttgart
 
 Advisor: Marco Oesting
+
 Topic: Long memory in extreme value analysis
 :::
 :::
@@ -24,6 +25,7 @@ Topic: Long memory in extreme value analysis
 **MSc in Mathematics**, University of Stuttgart
 
 Advisor: Jürgen Dippon
+
 Thesis: A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis
 :::
 :::
