@@ -10,7 +10,7 @@ Chapel Hill
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-Conference on Extreme Value Analysis – Chapel Hill, USA
+14th International Conference on Extreme Value Analysis (EVA) – University of North Carolina at Chapel Hill, USA
 :::
 
 ::: {.talk-date}
