@@ -1,56 +1,70 @@
-/* Talks page in the style of lukastrottner.github.io/talks */
-
-main ol {
-  padding-left: 1.6rem;
+.talk-row {
+  display: grid;
+  grid-template-columns: 8.5rem 1fr;
+  column-gap: 1.8rem;
+  align-items: start;
+  margin-bottom: 2.2rem;
 }
 
-main ol li {
-  margin-bottom: 1.8rem;
-  padding-left: 0.2rem;
-}
-
-main ol li::marker {
-  font-weight: 400;
-}
-
-main ol li p {
-  margin: 0.15rem 0;
-}
-
-main ol li > p:first-of-type,
-main ol li > strong:first-of-type {
-  margin-top: 0;
-}
-
-.talk-btn {
+.talk-place {
   display: inline-block;
-  padding: 0.18rem 0.5rem;
-  margin-top: 0.45rem;
-  margin-right: 0.35rem;
-  border: 1px solid #c9c9c9;
+  background: #0b8ea2;
+  color: #ffffff;
+  font-weight: 600;
+  text-align: center;
+  border-radius: 0.35rem;
+  padding: 0.22rem 0.9rem;
+  line-height: 1.1;
+  min-width: 7.8rem;
+  margin-top: 0.15rem;
+}
+
+.talk-content {
+  min-width: 0;
+}
+
+.talk-title {
+  font-size: 1.15rem;
+  line-height: 1.45;
+  margin: 0 0 0.2rem 0;
+}
+
+.talk-date {
+  color: #7a7a7a;
+  font-size: 1rem;
+  margin: 0 0 0.7rem 0;
+}
+
+.talk-content p {
+  margin: 0;
+}
+
+.talk-link {
+  display: inline-block;
+  padding: 0.38rem 1rem;
+  margin-right: 0.55rem;
+  margin-bottom: 0.25rem;
+  border: 1px solid #444;
   border-radius: 0.2rem;
-  font-size: 0.78rem;
-  line-height: 1.2;
-  text-decoration: none;
   color: inherit;
-}
-
-.talk-btn:hover {
   text-decoration: none;
-  border-color: #9a9a9a;
+  font-size: 0.9rem;
+  line-height: 1.2;
 }
 
-main em {
-  color: #666;
-  font-style: normal;
+.talk-link:hover {
+  text-decoration: none;
+  border-color: #222;
 }
 
 @media (max-width: 700px) {
-  main ol {
-    padding-left: 1.3rem;
+  .talk-row {
+    grid-template-columns: 1fr;
+    row-gap: 0.6rem;
   }
 
-  .talk-btn {
-    margin-top: 0.4rem;
+  .talk-place {
+    width: fit-content;
+    min-width: 0;
   }
 }

@@ -4,51 +4,73 @@ title: "Talks"
 
 ## Talks
 
-**Chapel Hill**
+::: {.talk-row}
+::: {.talk-place}
+Chapel Hill
+:::
+::: {.talk-content}
+::: {.talk-title}
+Conference on Extreme Value Analysis – Chapel Hill, USA
+:::
 
-   Conference on Extreme Value Analysis – Chapel Hill, USA
+::: {.talk-date}
+2025
+:::
 
-   *2025*
+[Website](https://eva2025.unc.edu/){.talk-link target="_blank" rel="noopener noreferrer"}
+[Slides](slides/eva2025.pdf){.talk-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
 
-   [Website](https://eva2025.unc.edu/){.talk-btn target="_blank" rel="noopener noreferrer"}
-   [Slides](slides/scheffel_eva_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+::: {.talk-row}
+::: {.talk-place}
+Dresden
+:::
+::: {.talk-content}
+::: {.talk-title}
+German Probability and Statistics Days – Dresden, Germany
+:::
 
-**Dresden**
+::: {.talk-date}
+2025
+:::
 
-   German Probability and Statistics Days – Dresden, Germany
+[Slides](slides/gpsd2025.pdf){.talk-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
 
-   *2025*
+::: {.talk-row}
+::: {.talk-place}
+Online
+:::
+::: {.talk-content}
+::: {.talk-title}
+ECOSTA – online
+:::
 
-   [Slides](slides/scheffel_gpsd_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+::: {.talk-date}
+2025
+:::
 
- **Online**
+[Website](https://www.cmstatistics.org/EcoSta2025/index.php){.talk-link target="_blank" rel="noopener noreferrer"}
+[Slides](slides/ecosta2025.pdf){.talk-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
 
-   ECOSTA – online
+::: {.talk-row}
+::: {.talk-place}
+Berlin
+:::
+::: {.talk-content}
+::: {.talk-title}
+CMStatistics – Berlin, Germany
+:::
 
-   *2025*
+::: {.talk-date}
+2023
+:::
 
-   Extending Brown-Resnick stationarity to the max-domain of attraction
-
-   [Website](https://www.cmstatistics.org/EcoSta2025/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
-   [Slides](slides/scheffel_ecosta_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
-
- **Bochum**
-
-   SPP 2265 Workshop: Geometric extreme value theory – Bochum, Germany
-
-   *2024*
-
-   Extending Brown-Resnick Stationarity to Maximum Domain of Attraction
-
-   [Website](https://sites.google.com/view/geometric-extremes-bochum/home){.talk-btn target="_blank" rel="noopener noreferrer"}
-
- **Berlin**
-
-   CMStatistics – Berlin, Germany
-
-   *2023*
-
-   Long range dependence in extreme value analysis
-
-   [Website](https://www.cmstatistics.org/CMStatistics2023/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
-   [Slides](slides/cmstatistics2023.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+[Website](https://www.cmstatistics.org/CMStatistics2023/index.php){.talk-link target="_blank" rel="noopener noreferrer"}
+[Slides](slides/cmstatistics2023.pdf){.talk-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
