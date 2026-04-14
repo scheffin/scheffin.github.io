@@ -2,53 +2,87 @@
 title: "Talks"
 ---
 
-<div class="talks-list">
+## Talks
 
-  <div class="talk-item">
-    <div class="talk-abbr">Chapel Hill</div>
-    <div class="talk-body">
-      <div class="talk-title">Conference on Extreme Value Analysis – Chapel Hill, USA</div>
-      <div class="talk-date">2025</div>
-      <div class="talk-links">
-        <a class="talk-btn" href="https://eva2025.unc.edu/" target="_blank" rel="noopener noreferrer">WEBSITE</a>
-        <a class="talk-btn" href="slides/eva2025.pdf" target="_blank" rel="noopener noreferrer">SLIDES</a>
-      </div>
-    </div>
-  </div>
+::: {.talks-list}
 
-  <div class="talk-item">
-    <div class="talk-abbr">Dresden</div>
-    <div class="talk-body">
-      <div class="talk-title">German Probability and Statistics Days – Dresden, Germany</div>
-      <div class="talk-date">2025</div>
-      <div class="talk-links">
-        <a class="talk-btn" href="slides/gpsd2025.pdf" target="_blank" rel="noopener noreferrer">SLIDES</a>
-      </div>
-    </div>
-  </div>
+::: {.talk-item}
+::: {.talk-abbr}
+Chapel Hill
+:::
+::: {.talk-body}
+::: {.talk-title}
+Conference on Extreme Value Analysis – Chapel Hill, USA
+:::
 
-  <div class="talk-item">
-    <div class="talk-abbr">Online</div>
-    <div class="talk-body">
-      <div class="talk-title">ECOSTA – online</div>
-      <div class="talk-date">2025</div>
-      <div class="talk-links">
-        <a class="talk-btn" href="https://www.cmstatistics.org/EcoSta2025/index.php" target="_blank" rel="noopener noreferrer">WEBSITE</a>
-        <a class="talk-btn" href="slides/ecosta2025.pdf" target="_blank" rel="noopener noreferrer">SLIDES</a>
-      </div>
-    </div>
-  </div>
+::: {.talk-date}
+2025
+:::
 
-  <div class="talk-item">
-    <div class="talk-abbr">Berlin</div>
-    <div class="talk-body">
-      <div class="talk-title">CMStatistics – Berlin, Germany</div>
-      <div class="talk-date">2023</div>
-      <div class="talk-links">
-        <a class="talk-btn" href="https://www.cmstatistics.org/CMStatistics2023/index.php" target="_blank" rel="noopener noreferrer">WEBSITE</a>
-        <a class="talk-btn" href="slides/cmstatistics2023.pdf" target="_blank" rel="noopener noreferrer">SLIDES</a>
-      </div>
-    </div>
-  </div>
+::: {.talk-links}
+[Website](https://eva2025.unc.edu/){.talk-btn target="_blank" rel="noopener noreferrer"}
+[Slides](slides/eva2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
 
-</div>
+::: {.talk-item}
+::: {.talk-abbr}
+Dresden
+:::
+::: {.talk-body}
+::: {.talk-title}
+German Probability and Statistics Days – Dresden, Germany
+:::
+
+::: {.talk-date}
+2025
+:::
+
+::: {.talk-links}
+[Slides](slides/gpsd2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-abbr}
+Online
+:::
+::: {.talk-body}
+::: {.talk-title}
+ECOSTA – online
+:::
+
+::: {.talk-date}
+2025
+:::
+
+::: {.talk-links}
+[Website](https://www.cmstatistics.org/EcoSta2025/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
+[Slides](slides/ecosta2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
+::: {.talk-item}
+::: {.talk-abbr}
+Berlin
+:::
+::: {.talk-body}
+::: {.talk-title}
+CMStatistics – Berlin, Germany
+:::
+
+::: {.talk-date}
+2023
+:::
+
+::: {.talk-links}
+[Website](https://www.cmstatistics.org/CMStatistics2023/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
+[Slides](slides/cmstatistics2023.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
+:::
