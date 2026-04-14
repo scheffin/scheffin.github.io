@@ -27,7 +27,7 @@ Central limit theory for Peaks-over-Threshold partial sums of long memory linear
 
 CLT for PoT-estimators in long memory linear time series
 
-[Slides](slides/gpsd2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_gpsd_2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
 :::
 :::
 
