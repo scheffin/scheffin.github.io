@@ -4,42 +4,55 @@ title: "Talks"
 
 ## Talks
 
-::: {.cv-entry}
-::: {.cv-date}
+::: {.talk-entry}
+::: {.talk-date}
 2025
 :::
-::: {.cv-main}
+::: {.talk-main}
 **Conference on Extreme Value Analysis**, Chapel Hill, USA
+
 Central limit theory for Peaks-over-Threshold partial sums of long memory linear time series
+
+[Website](https://example.com){.btn .btn-sm .btn-outline-dark}
+[Slides](slides/ceva-2025.pdf){.btn .btn-sm .btn-outline-primary}
 :::
 :::
 
-::: {.cv-entry}
-::: {.cv-date}
+::: {.talk-entry}
+::: {.talk-date}
 2025
 :::
-::: {.cv-main}
+::: {.talk-main}
 **German Probability and Statistics Days**, Dresden, Germany
+
 CLT for PoT-estimators in long memory linear time series
+
+[Website](https://example.com){.btn .btn-sm .btn-outline-dark}
 :::
 :::
 
-::: {.cv-entry}
-::: {.cv-date}
+::: {.talk-entry}
+::: {.talk-date}
 2025
 :::
-::: {.cv-main}
+::: {.talk-main}
 **ECOSTA**, online
+
 Extending Brown-Resnick stationarity to the max-domain of attraction
+
+[Website](https://example.com){.btn .btn-sm .btn-outline-dark}
 :::
 :::
 
-::: {.cv-entry}
-::: {.cv-date}
+::: {.talk-entry}
+::: {.talk-date}
 2023
 :::
-::: {.cv-main}
+::: {.talk-main}
 **CMStatistics**, Berlin, Germany
+
 Long range dependence in extreme value analysis
+
+[Website](https://example.com){.btn .btn-sm .btn-outline-dark}
 :::
 :::
