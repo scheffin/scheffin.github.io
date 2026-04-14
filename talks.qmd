@@ -14,6 +14,7 @@ title: "Talks"
 Central limit theory for Peaks-over-Threshold partial sums of long memory linear time series
 
 [Website](https://eva2025.unc.edu/){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
+[Slides](slides/eva2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
 :::
 :::
 
@@ -26,6 +27,7 @@ Central limit theory for Peaks-over-Threshold partial sums of long memory linear
 
 CLT for PoT-estimators in long memory linear time series
 
+[Slides](slides/gpsd2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
 :::
 :::
 
@@ -39,6 +41,7 @@ CLT for PoT-estimators in long memory linear time series
 Extending Brown-Resnick stationarity to the max-domain of attraction
 
 [Website](https://www.cmstatistics.org/EcoSta2025/index.php){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
+[Slides](slides/ecosta2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
 :::
 :::
 
@@ -52,5 +55,6 @@ Extending Brown-Resnick stationarity to the max-domain of attraction
 Long range dependence in extreme value analysis
 
 [Website](https://www.cmstatistics.org/CMStatistics2023/index.php){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
+[Slides](slides/cmstatistics2023.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
 :::
 :::
