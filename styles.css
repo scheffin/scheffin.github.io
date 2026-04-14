@@ -182,3 +182,17 @@ body {
     min-width: 0;
   }
 }
+
+
+.v-center-container {
+  align-items: center;
+}
+
+.profile-photo {
+  display: block;
+  width: 250px;
+  max-width: 100%;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}

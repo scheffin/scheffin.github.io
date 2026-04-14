@@ -2,20 +2,21 @@
 title: "Ioan Scheffel"
 ---
 
-::: {.columns}
+::: {.columns .v-center-container}
 ::: {.column width="65%"}
-I am a PhD candidate in mathematics at the University of Stuttgart. My research focuses on stochastic processes, extreme value theory, and time series.
+I am a PhD candidate in mathematics at the University of Stuttgart, supervised by Marco Oesting. My research lies in probability theory, with a focus on stochastic processes, extreme value theory, and time series.
 
 I am currently finishing my PhD and looking for postdoctoral positions.
 
+**Research interests:** extreme value theory, stochastic processes, time series, asymptotic statistics.
+
 ## Contact
 
-Email: scheffin@tutamail.com
-
+Email: [scheffin@tutamail.com](mailto:scheffin@tutamail.com)
 Affiliation: University of Stuttgart
 :::
 
 ::: {.column width="35%"}
-![](photo.png){width="250"}
+![](photo.png){.profile-photo}
 :::
 :::
