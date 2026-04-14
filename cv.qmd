@@ -8,26 +8,11 @@ title: "CV"
 ::: {.cv-date}
 2023–2026
 :::
-::: {.cv-body}
+::: {.cv-main}
 **PhD in Mathematics**, University of Stuttgart
 
-::: {.cv-meta}
-::: {.cv-meta-label}
-Advisor
-:::
-::: {.cv-meta-value}
-Marco Oesting
-:::
-:::
-
-::: {.cv-meta}
-::: {.cv-meta-label}
-Topic
-:::
-::: {.cv-meta-value}
-Long memory in extreme value analysis
-:::
-:::
+Advisor: Marco Oesting
+Topic: Long memory in extreme value analysis
 :::
 :::
 
@@ -35,26 +20,11 @@ Long memory in extreme value analysis
 ::: {.cv-date}
 2020–2023
 :::
-::: {.cv-body}
+::: {.cv-main}
 **MSc in Mathematics**, University of Stuttgart
 
-::: {.cv-meta}
-::: {.cv-meta-label}
-Advisor
-:::
-::: {.cv-meta-value}
-Jürgen Dippon
-:::
-:::
-
-::: {.cv-meta}
-::: {.cv-meta-label}
-Thesis
-:::
-::: {.cv-meta-value}
-A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis
-:::
-:::
+Advisor: Jürgen Dippon
+Thesis: A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis
 :::
 :::
 
@@ -62,7 +32,7 @@ A novel weighted mean approach to estimate the distribution function of potentia
 ::: {.cv-date}
 2016–2020
 :::
-::: {.cv-body}
+::: {.cv-main}
 **BSc in Mathematics**, University of Stuttgart
 :::
 :::
@@ -71,7 +41,7 @@ A novel weighted mean approach to estimate the distribution function of potentia
 ::: {.cv-date}
 2013–2018
 :::
-::: {.cv-body}
+::: {.cv-main}
 **BMus in Church Music**, HMDK Stuttgart
 :::
 :::
@@ -82,7 +52,7 @@ A novel weighted mean approach to estimate the distribution function of potentia
 ::: {.cv-date}
 2023–present
 :::
-::: {.cv-body}
+::: {.cv-main}
 **Research Assistant**, Institute of Stochastics and Applications, University of Stuttgart
 :::
 :::
