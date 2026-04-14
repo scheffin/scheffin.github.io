@@ -16,6 +16,6 @@ Affiliation: University of Stuttgart
 :::
 
 ::: {.column width="35%"}
-![](photo.jpg){width="250"}
+![](photo.png){width="250"}
 :::
 :::
