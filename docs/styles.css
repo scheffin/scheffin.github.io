@@ -43,20 +43,15 @@ body {
   display: inline-block;
   background: #1098ad;
   color: #ffffff;
-
   font-weight: 700;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   line-height: 1;
-
-  padding: 0.22rem 0.95rem;
+  padding: 0.12rem 0.95rem;
   border-radius: 0.22rem;
-
   white-space: nowrap;
   text-align: center;
   margin: 0.1rem 0;
 }
-
-
 
 .talk-body {
   min-width: 0;
