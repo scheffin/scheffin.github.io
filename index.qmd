@@ -4,7 +4,7 @@ title: "Ioan Scheffel"
 
 ::: {.columns .v-center-container}
 ::: {.column width="65%"}
-I am a PhD candidate in mathematics at the [University of Stuttgart](https://www.uni-stuttgart.de/), supervised by [Marco Oesting](https://www.isa.uni-stuttgart.de/institut/team/Oesting/). My research lies in probability theory, with a focus on stochastic processes, extreme value theory, and time series.
+I am a PhD candidate in mathematics at the [University of Stuttgart](https://www.uni-stuttgart.de/), supervised by [Marco Oesting](https://www.isa.uni-stuttgart.de/institut/team/Oesting/).
 
 I am currently finishing my PhD and looking for postdoctoral positions.
 
@@ -12,8 +12,7 @@ I am currently finishing my PhD and looking for postdoctoral positions.
 
 ## Contact
 
-Email: [scheffin@tutamail.com](mailto:scheffin@tutamail.com)
-Affiliation: University of Stuttgart
+Email: [ioan.scheffel@mathematik.uni-stuttgart.de](mailto:ioan.scheffel@mathematik.uni-stuttgart.de)   Affiliation: University of Stuttgart
 :::
 
 ::: {.column width="35%"}
