@@ -4,7 +4,7 @@ title: "Talks"
 
 ## Talks
 
-1. **Chapel Hill**
+**Chapel Hill**
 
    Conference on Extreme Value Analysis – Chapel Hill, USA
 
@@ -13,7 +13,7 @@ title: "Talks"
    [Website](https://eva2025.unc.edu/){.talk-btn target="_blank" rel="noopener noreferrer"}
    [Slides](slides/scheffel_eva_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 
-2. **Dresden**
+**Dresden**
 
    German Probability and Statistics Days – Dresden, Germany
 
@@ -21,7 +21,7 @@ title: "Talks"
 
    [Slides](slides/scheffel_gpsd_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 
-3. **Online**
+ **Online**
 
    ECOSTA – online
 
@@ -32,7 +32,7 @@ title: "Talks"
    [Website](https://www.cmstatistics.org/EcoSta2025/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
    [Slides](slides/scheffel_ecosta_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 
-4. **Bochum**
+ **Bochum**
 
    SPP 2265 Workshop: Geometric extreme value theory – Bochum, Germany
 
@@ -42,7 +42,7 @@ title: "Talks"
 
    [Website](https://sites.google.com/view/geometric-extremes-bochum/home){.talk-btn target="_blank" rel="noopener noreferrer"}
 
-5. **Berlin**
+ **Berlin**
 
    CMStatistics – Berlin, Germany
 
