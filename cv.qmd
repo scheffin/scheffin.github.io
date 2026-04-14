@@ -2,4 +2,29 @@
 title: "CV"
 ---
 
-My CV will be linked here.
+## Curriculum Vitae
+
+[Download full CV (PDF)](cv_scheffel.pdf)
+
+## Education
+
+**PhD in Mathematics**, University of Stuttgart
+2023–2026 (expected)
+Advisor: Marco Oesting
+Topic: Long memory in extreme value analysis
+
+**MSc in Mathematics**, University of Stuttgart
+2020–2023
+Advisor: Jürgen Dippon
+Thesis: A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis
+
+**BSc in Mathematics**, University of Stuttgart
+2016–2020
+
+**BMus in Church Music**, HMDK Stuttgart
+2013–2018
+
+## Work
+
+**Research Assistant**, Institute of Stochastics and Applications, University of Stuttgart
+2023–present

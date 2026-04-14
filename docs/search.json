@@ -18,7 +18,28 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "My CV will be linked here."
+    "text": "Download full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "CV",
+    "section": "",
+    "text": "Download full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPhD in Mathematics, University of Stuttgart 2023–2026 (expected) Advisor: Marco Oesting Topic: Long memory in extreme value analysis\nMSc in Mathematics, University of Stuttgart 2020–2023 Advisor: Jürgen Dippon Thesis: A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis\nBSc in Mathematics, University of Stuttgart 2016–2020\nBMus in Church Music, HMDK Stuttgart 2013–2018"
+  },
+  {
+    "objectID": "cv.html#work",
+    "href": "cv.html#work",
+    "title": "CV",
+    "section": "Work",
+    "text": "Work\nResearch Assistant, Institute of Stochastics and Applications, University of Stuttgart 2023–present"
   },
   {
     "objectID": "research.html",
