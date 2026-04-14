@@ -49,7 +49,7 @@ Tokyo
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-8th International Conference on Econometrics and Statistics (EcoSta 2025) – online
+8th International Conference on Econometrics and Statistics (EcoSta) – online
 :::
 
 ::: {.talk-date}
@@ -89,7 +89,7 @@ Berlin
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023) – Hochschule für Technik und Wirtschaft Berlin, Germany
+16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics) – Hochschule für Technik und Wirtschaft Berlin, Germany
 :::
 
 ::: {.talk-date}
