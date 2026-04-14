@@ -45,7 +45,7 @@ German Probability and Statistics Days – Dresden, Germany
 
 ::: {.talk-item}
 ::: {.talk-abbr}
-Online
+Tokyo
 :::
 ::: {.talk-body}
 ::: {.talk-title}
