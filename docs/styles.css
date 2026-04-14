@@ -1,0 +1,15 @@
+.cv-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.2rem;
+}
+
+.cv-date {
+  width: 8rem;
+  flex-shrink: 0;
+  font-weight: 600;
+}
+
+.cv-body {
+  flex: 1;
+}
