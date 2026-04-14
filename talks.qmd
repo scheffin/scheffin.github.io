@@ -1,0 +1,45 @@
+---
+title: "Talks"
+---
+
+## Talks
+
+::: {.cv-entry}
+::: {.cv-date}
+2025
+:::
+::: {.cv-main}
+**Conference on Extreme Value Analysis**, Chapel Hill, USA
+Central limit theory for Peaks-over-Threshold partial sums of long memory linear time series
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-date}
+2025
+:::
+::: {.cv-main}
+**German Probability and Statistics Days**, Dresden, Germany
+CLT for PoT-estimators in long memory linear time series
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-date}
+2025
+:::
+::: {.cv-main}
+**ECOSTA**, online
+Extending Brown-Resnick stationarity to the max-domain of attraction
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-date}
+2023
+:::
+::: {.cv-main}
+**CMStatistics**, Berlin, Germany
+Long range dependence in extreme value analysis
+:::
+:::

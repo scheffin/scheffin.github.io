@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Ioan Scheffel"
-  navbar:
+   navbar:
     left:
       - href: index.qmd
         text: Home
@@ -12,9 +12,10 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: talks.qmd
+        text: Talks
       - href: cv.qmd
         text: CV
-
 format:
   html:
     theme: cosmo
