@@ -27,6 +27,8 @@ Topic: Long memory in extreme value analysis
 Advisor: Jürgen Dippon
 
 Thesis: A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis
+
+[PDF](theses/scheffel_msc_2023.pdf){.cv-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 
