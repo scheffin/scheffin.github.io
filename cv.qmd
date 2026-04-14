@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-## Education and Work
+## Education
 
 ::: {.cv-entry}
 ::: {.cv-date}
@@ -12,15 +12,6 @@ title: "CV"
 **PhD in Mathematics**, University of Stuttgart
 Advisor: Marco Oesting
 Topic: Long memory in extreme value analysis
-:::
-:::
-
-::: {.cv-entry}
-::: {.cv-date}
-2023–present
-:::
-::: {.cv-body}
-**Research Assistant**, Institute of Stochastics and Applications, University of Stuttgart
 :::
 :::
 
@@ -50,5 +41,16 @@ Thesis: A novel weighted mean approach to estimate the distribution function of 
 :::
 ::: {.cv-body}
 **BMus in Church Music**, HMDK Stuttgart
+:::
+:::
+
+## Work
+
+::: {.cv-entry}
+::: {.cv-date}
+2023–present
+:::
+::: {.cv-body}
+**Research Assistant**, Institute of Stochastics and Applications, University of Stuttgart
 :::
 :::

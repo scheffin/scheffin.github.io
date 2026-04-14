@@ -13,3 +13,14 @@
 .cv-body {
   flex: 1;
 }
+
+@media (max-width: 700px) {
+  .cv-entry {
+    flex-direction: column;
+  }
+
+  .cv-date {
+    width: auto;
+    margin-bottom: 0.2rem;
+  }
+}
