@@ -79,7 +79,6 @@ Oct 2024
 
 ::: {.talk-links}
 [Website](https://sites.google.com/view/geometric-extremes-bochum/home){.talk-btn target="_blank" rel="noopener noreferrer"}
-[Slides](slides/scheffel_geometric_extremes_2024.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
@@ -99,7 +98,6 @@ Dec 2023
 
 ::: {.talk-links}
 [Website](https://www.cmstatistics.org/CMStatistics2023/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
-[Slides](slides/scheffel_cmstatistics_2023.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
