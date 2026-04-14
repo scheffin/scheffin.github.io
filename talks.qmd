@@ -90,7 +90,7 @@ Berlin
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-CMStatistics – Berlin, Germany
+16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2023) – Hochschule für Technik und Wirtschaft Berlin, Germany
 :::
 
 ::: {.talk-date}
