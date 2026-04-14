@@ -1,36 +1,24 @@
-.talk-entry {
-  display: grid;
-  grid-template-columns: 5.5rem 1fr;
-  column-gap: 1.5rem;
-  margin-bottom: 1.6rem;
-  align-items: start;
+.talk-list ol {
+  padding-left: 2rem;
+  margin-top: 1rem;
 }
 
-.talk-date {
-  font-weight: 600;
-  white-space: nowrap;
+.talk-list li {
+  margin-bottom: 1.8rem;
+  padding-left: 0.3rem;
 }
 
-.talk-main {
+.talk-list li > p {
+  margin: 0.15rem 0;
   line-height: 1.45;
 }
 
-.talk-main p {
-  margin: 0;
+.talk-list li > p:first-child strong {
+  font-size: 1.05rem;
+  font-weight: 600;
 }
 
-.talk-main p + p {
-  margin-top: 0.35rem;
-}
-
-.talk-main .btn {
-  margin-top: 0.5rem;
-  margin-right: 0.4rem;
-}
-
-@media (max-width: 700px) {
-  .talk-entry {
-    grid-template-columns: 1fr;
-    row-gap: 0.2rem;
-  }
+.talk-list .btn {
+  margin-top: 0.45rem;
+  margin-right: 0.45rem;
 }
