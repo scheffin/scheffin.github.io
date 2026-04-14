@@ -10,8 +10,24 @@ title: "CV"
 :::
 ::: {.cv-body}
 **PhD in Mathematics**, University of Stuttgart
-Advisor: Marco Oesting
-Topic: Long memory in extreme value analysis
+
+::: {.cv-meta}
+::: {.cv-meta-label}
+Advisor
+:::
+::: {.cv-meta-value}
+Marco Oesting
+:::
+:::
+
+::: {.cv-meta}
+::: {.cv-meta-label}
+Topic
+:::
+::: {.cv-meta-value}
+Long memory in extreme value analysis
+:::
+:::
 :::
 :::
 
@@ -21,8 +37,24 @@ Topic: Long memory in extreme value analysis
 :::
 ::: {.cv-body}
 **MSc in Mathematics**, University of Stuttgart
-Advisor: Jürgen Dippon
-Thesis: A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis
+
+::: {.cv-meta}
+::: {.cv-meta-label}
+Advisor
+:::
+::: {.cv-meta-value}
+Jürgen Dippon
+:::
+:::
+
+::: {.cv-meta}
+::: {.cv-meta-label}
+Thesis
+:::
+::: {.cv-meta-value}
+A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis
+:::
+:::
 :::
 :::
 
