@@ -14,7 +14,7 @@ Conference on Extreme Value Analysis – Chapel Hill, USA
 :::
 
 ::: {.talk-date}
-2025
+Jun 2025
 :::
 
 ::: {.talk-links}
@@ -34,7 +34,7 @@ German Probability and Statistics Days – Dresden, Germany
 :::
 
 ::: {.talk-date}
-2025
+Mar 2025
 :::
 
 ::: {.talk-links}
@@ -53,7 +53,7 @@ ECOSTA – online
 :::
 
 ::: {.talk-date}
-2025
+Aug 2025
 :::
 
 ::: {.talk-links}
@@ -73,7 +73,7 @@ SPP 2265 Workshop: Geometric extreme value theory – Bochum, Germany
 :::
 
 ::: {.talk-date}
-2024
+Oct 2024
 :::
 
 ::: {.talk-links}
@@ -93,7 +93,7 @@ CMStatistics – Berlin, Germany
 :::
 
 ::: {.talk-date}
-2023
+Dec 2023
 :::
 
 ::: {.talk-links}
