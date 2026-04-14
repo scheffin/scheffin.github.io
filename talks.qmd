@@ -30,7 +30,7 @@ Dresden
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-German Probability and Statistics Days – Dresden, Germany
+17th German Probability and Statistics Days (GPSD) – Technische Universität Dresden, Germany
 :::
 
 ::: {.talk-date}
