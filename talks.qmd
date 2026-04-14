@@ -49,7 +49,7 @@ Tokyo
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-ECOSTA – online
+8th International Conference on Econometrics and Statistics (EcoSta 2025) – online
 :::
 
 ::: {.talk-date}
