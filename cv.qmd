@@ -4,41 +4,51 @@ title: "CV"
 
 ## Education and Work
 
-<div class="cv-entry">
-  <div class="cv-date">2023–2026</div>
-  <div class="cv-body">
-    <strong>PhD in Mathematics</strong>, University of Stuttgart<br>
-    Advisor: Marco Oesting<br>
-    Topic: Long memory in extreme value analysis
-  </div>
-</div>
+::: {.cv-entry}
+::: {.cv-date}
+2023–2026
+:::
+::: {.cv-body}
+**PhD in Mathematics**, University of Stuttgart
+Advisor: Marco Oesting
+Topic: Long memory in extreme value analysis
+:::
+:::
 
-<div class="cv-entry">
-  <div class="cv-date">2023–present</div>
-  <div class="cv-body">
-    <strong>Research Assistant</strong>, Institute of Stochastics and Applications, University of Stuttgart
-  </div>
-</div>
+::: {.cv-entry}
+::: {.cv-date}
+2023–present
+:::
+::: {.cv-body}
+**Research Assistant**, Institute of Stochastics and Applications, University of Stuttgart
+:::
+:::
 
-<div class="cv-entry">
-  <div class="cv-date">2020–2023</div>
-  <div class="cv-body">
-    <strong>MSc in Mathematics</strong>, University of Stuttgart<br>
-    Advisor: Jürgen Dippon<br>
-    Thesis: A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis
-  </div>
-</div>
+::: {.cv-entry}
+::: {.cv-date}
+2020–2023
+:::
+::: {.cv-body}
+**MSc in Mathematics**, University of Stuttgart
+Advisor: Jürgen Dippon
+Thesis: A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis
+:::
+:::
 
-<div class="cv-entry">
-  <div class="cv-date">2016–2020</div>
-  <div class="cv-body">
-    <strong>BSc in Mathematics</strong>, University of Stuttgart
-  </div>
-</div>
+::: {.cv-entry}
+::: {.cv-date}
+2016–2020
+:::
+::: {.cv-body}
+**BSc in Mathematics**, University of Stuttgart
+:::
+:::
 
-<div class="cv-entry">
-  <div class="cv-date">2013–2018</div>
-  <div class="cv-body">
-    <strong>BMus in Church Music</strong>, HMDK Stuttgart
-  </div>
-</div>
+::: {.cv-entry}
+::: {.cv-date}
+2013–2018
+:::
+::: {.cv-body}
+**BMus in Church Music**, HMDK Stuttgart
+:::
+:::
