@@ -41,7 +41,7 @@ CLT for PoT-estimators in long memory linear time series
 Extending Brown-Resnick stationarity to the max-domain of attraction
 
 [Website](https://www.cmstatistics.org/EcoSta2025/index.php){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
-[Slides](slides/ecosta2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_ecosta_2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
 :::
 :::
 
