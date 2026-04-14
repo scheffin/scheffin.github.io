@@ -4,14 +4,59 @@ title: "Publications"
 
 ## Published papers
 
-### Central limit theory for Peaks-over-Threshold partial sums of long memory linear time series
-Ioan Scheffel, Marco Oesting, Gilles Stupfler.
-*Stochastic Processes and their Applications* **197** (2026), Article 104929.
-[DOI](https://doi.org/10.1016/j.spa.2026.104929)
+::: {.pub-list}
+
+::: {.pub-item}
+::: {.pub-abbr}
+SPA
+:::
+::: {.pub-body}
+::: {.pub-title}
+Central limit theory for Peaks-over-Threshold partial sums of long memory linear time series
+:::
+
+::: {.pub-authors}
+Ioan Scheffel, Marco Oesting, Gilles Stupfler
+:::
+
+::: {.pub-venue}
+*Stochastic Processes and their Applications* **197** (2026), Article 104929
+:::
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1016/j.spa.2026.104929){.pub-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
+:::
 
 ## Preprints
 
-### Maxima of stationary systems of randomly time-changed Lévy particles
-Ioan Scheffel.
-*arXiv preprint*, 2026.
-[arXiv](https://arxiv.org/abs/2604.11434) | [PDF](https://arxiv.org/pdf/2604.11434)
+::: {.pub-list}
+
+::: {.pub-item}
+::: {.pub-abbr}
+arXiv
+:::
+::: {.pub-body}
+::: {.pub-title}
+Maxima of stationary systems of randomly time-changed Lévy particles
+:::
+
+::: {.pub-authors}
+Ioan Scheffel
+:::
+
+::: {.pub-venue}
+*arXiv preprint*, 2026
+:::
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2604.11434){.pub-btn target="_blank" rel="noopener noreferrer"}
+[PDF](https://arxiv.org/pdf/2604.11434){.pub-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
+:::
