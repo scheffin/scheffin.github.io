@@ -41,18 +41,21 @@ body {
 
 .talk-abbr {
   display: inline-block;
-  width: 7.8rem;
+  width: fit-content;
+  min-width: 0;
   text-align: center;
   background: #0b94a6;
   color: #ffffff;
   font-weight: 700;
   font-size: 0.95rem;
-  line-height: 0.9;
-  padding: 0.28rem 0.8rem;
+  line-height: 1;
+  padding-top: 0.38rem;
+  padding-bottom: 0.38rem;
+  padding-left: 0.8rem;
+  padding-right: 0.8rem;
   border-radius: 0.35rem;
-  margin: 0.15rem;
+  margin: 0.15rem 0;
 }
-
 .talk-body {
   min-width: 0;
 }
