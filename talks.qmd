@@ -4,39 +4,70 @@ title: "Talks"
 
 ## Talks
 
-::: {.talk-list}
-1. **Chapel Hill**
+::: {.talk-entry}
+::: {.talk-date}
+2025
+:::
+::: {.talk-main}
+**Conference on Extreme Value Analysis**, Chapel Hill, USA
 
-   Conference on Extreme Value Analysis, Chapel Hill, USA
+Central limit theory for Peaks-over-Threshold partial sums of long memory linear time series
 
-   2025
+[Website](https://eva2025.unc.edu/){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_eva_2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+:::
+:::
 
-   [Website](https://eva2025.unc.edu/){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
-   [Slides](slides/eva2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+::: {.talk-entry}
+::: {.talk-date}
+2025
+:::
+::: {.talk-main}
+**German Probability and Statistics Days**, Dresden, Germany
 
-2. **Dresden**
+CLT for PoT-estimators in long memory linear time series
 
-   German Probability and Statistics Days, Dresden, Germany
+[Slides](slides/scheffel_gpsd_2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+:::
+:::
 
-   2025
+::: {.talk-entry}
+::: {.talk-date}
+2025
+:::
+::: {.talk-main}
+**ECOSTA**, online
 
-   [Slides](slides/gpsd2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+Extending Brown-Resnick stationarity to the max-domain of attraction
 
-3. **Online**
+[Website](https://www.cmstatistics.org/EcoSta2025/index.php){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_ecosta_2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+:::
+:::
 
-   ECOSTA, online
+::: {.talk-entry}
+::: {.talk-date}
+2024
+:::
+::: {.talk-main}
+**SPP 2265 Workshop: Geometric extreme value theory**, Bochum, Germany
 
-   2025
+Extending Brown-Resnick Stationarity to Maximum Domain of Attraction
 
-   [Website](https://www.cmstatistics.org/EcoSta2025/index.php){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
-   [Slides](slides/ecosta2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+[Website](https://sites.google.com/view/geometric-extremes-bochum/home){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
+:::
+:::
 
-4. **Berlin**
+::: {.talk-entry}
+::: {.talk-date}
+2023
+:::
+::: {.talk-main}
+**CMStatistics**, Berlin, Germany
 
-   CMStatistics, Berlin, Germany
+Long range dependence in extreme value analysis
 
-   2023
-
-   [Website](https://www.cmstatistics.org/CMStatistics2023/index.php){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
-   [Slides](slides/cmstatistics2023.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+[Website](https://www.cmstatistics.org/CMStatistics2023/index.php){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
+[Slides](slides/cmstatistics2023.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+:::
 :::
