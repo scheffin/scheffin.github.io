@@ -14,7 +14,7 @@ title: "Talks"
 Central limit theory for Peaks-over-Threshold partial sums of long memory linear time series
 
 [Website](https://eva2025.unc.edu/){.btn .btn-sm .btn-outline-dark target="_blank" rel="noopener noreferrer"}
-[Slides](slides/eva2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_eva_2025.pdf){.btn .btn-sm .btn-outline-primary target="_blank" rel="noopener noreferrer"}
 :::
 :::
 
