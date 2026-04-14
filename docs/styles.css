@@ -30,7 +30,6 @@ body {
 .talks-list {
   margin-top: 1.5rem;
 }
-
 .talk-item {
   display: grid;
   grid-template-columns: 8.5rem 1fr;
@@ -46,15 +45,17 @@ body {
   font-weight: 700;
   font-size: 0.9rem;
   line-height: 1;
-  padding: 0.12rem 0.95rem;
+  padding: 0.2rem 0.9rem;
   border-radius: 0.22rem;
   white-space: nowrap;
   text-align: center;
-  margin: 0.1rem 0;
 }
 
-.talk-body {
-  min-width: 0;
+.talk-abbr p,
+.talk-title p,
+.talk-date p,
+.talk-links p {
+  margin: 0;
 }
 
 .talk-title {
@@ -87,27 +88,4 @@ body {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   background: transparent;
-}
-
-.talk-btn:hover {
-  text-decoration: none;
-  border-color: #555;
-  color: inherit;
-}
-
-@media (max-width: 700px) {
-  .cv-entry {
-    grid-template-columns: 1fr;
-    row-gap: 0.15rem;
-  }
-
-  .talk-item {
-    grid-template-columns: 1fr;
-    row-gap: 0.6rem;
-  }
-
-  .talk-abbr {
-    width: fit-content;
-    min-width: 0;
-  }
 }
