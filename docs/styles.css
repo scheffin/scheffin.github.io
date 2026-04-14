@@ -1,69 +1,120 @@
-.talk-row {
+/* ===== Global ===== */
+
+body {
+  line-height: 1.6;
+}
+
+/* ===== CV layout ===== */
+
+.cv-entry {
+  display: grid;
+  grid-template-columns: 7rem 1fr;
+  column-gap: 1.5rem;
+  margin-bottom: 1.2rem;
+  align-items: start;
+}
+
+.cv-date {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.cv-main {
+  line-height: 1.45;
+}
+
+.cv-main p {
+  margin: 0;
+}
+
+.cv-main p + p {
+  margin-top: 0.15rem;
+}
+
+/* ===== Talks layout ===== */
+
+.talks-list {
+  margin-top: 1.5rem;
+}
+
+.talk-item {
   display: grid;
   grid-template-columns: 8.5rem 1fr;
   column-gap: 1.8rem;
   align-items: start;
-  margin-bottom: 2.2rem;
+  margin-bottom: 2.1rem;
 }
 
-.talk-place {
+.talk-abbr {
   display: inline-block;
-  background: #0b8ea2;
-  color: #ffffff;
-  font-weight: 600;
+  width: 7.8rem;
   text-align: center;
-  border-radius: 0.35rem;
-  padding: 0.22rem 0.9rem;
+  background: #0b94a6;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.95rem;
   line-height: 1.1;
-  min-width: 7.8rem;
+  padding: 0.28rem 0.8rem;
+  border-radius: 0.35rem;
   margin-top: 0.15rem;
 }
 
-.talk-content {
+.talk-body {
   min-width: 0;
 }
 
 .talk-title {
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   line-height: 1.45;
   margin: 0 0 0.2rem 0;
 }
 
 .talk-date {
-  color: #7a7a7a;
-  font-size: 1rem;
+  color: #8a8a8a;
+  font-size: 0.98rem;
   margin: 0 0 0.7rem 0;
 }
 
-.talk-content p {
-  margin: 0;
+.talk-links {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
 }
 
-.talk-link {
+.talk-btn {
   display: inline-block;
-  padding: 0.38rem 1rem;
-  margin-right: 0.55rem;
-  margin-bottom: 0.25rem;
-  border: 1px solid #444;
+  padding: 0.42rem 1rem;
+  border: 1px solid #8c8c8c;
   border-radius: 0.2rem;
   color: inherit;
   text-decoration: none;
-  font-size: 0.9rem;
-  line-height: 1.2;
+  font-size: 0.78rem;
+  line-height: 1;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  background: transparent;
 }
 
-.talk-link:hover {
+.talk-btn:hover {
   text-decoration: none;
-  border-color: #222;
+  border-color: #555;
+  color: inherit;
 }
+
+/* ===== Responsive ===== */
 
 @media (max-width: 700px) {
-  .talk-row {
+  .cv-entry {
+    grid-template-columns: 1fr;
+    row-gap: 0.15rem;
+  }
+
+  .talk-item {
     grid-template-columns: 1fr;
     row-gap: 0.6rem;
   }
 
-  .talk-place {
+  .talk-abbr {
     width: fit-content;
     min-width: 0;
   }

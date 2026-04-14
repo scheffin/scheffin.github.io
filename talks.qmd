@@ -2,51 +2,53 @@
 title: "Talks"
 ---
 
-## Talks
+<div class="talks-list">
 
-**Chapel Hill**   Conference on Extreme Value Analysis – Chapel Hill, USA
+  <div class="talk-item">
+    <div class="talk-abbr">Chapel Hill</div>
+    <div class="talk-body">
+      <div class="talk-title">Conference on Extreme Value Analysis – Chapel Hill, USA</div>
+      <div class="talk-date">2025</div>
+      <div class="talk-links">
+        <a class="talk-btn" href="https://eva2025.unc.edu/" target="_blank" rel="noopener noreferrer">WEBSITE</a>
+        <a class="talk-btn" href="slides/eva2025.pdf" target="_blank" rel="noopener noreferrer">SLIDES</a>
+      </div>
+    </div>
+  </div>
 
-   *2025*
+  <div class="talk-item">
+    <div class="talk-abbr">Dresden</div>
+    <div class="talk-body">
+      <div class="talk-title">German Probability and Statistics Days – Dresden, Germany</div>
+      <div class="talk-date">2025</div>
+      <div class="talk-links">
+        <a class="talk-btn" href="slides/gpsd2025.pdf" target="_blank" rel="noopener noreferrer">SLIDES</a>
+      </div>
+    </div>
+  </div>
 
-   [Website](https://eva2025.unc.edu/){.talk-btn target="_blank" rel="noopener noreferrer"}
-   [Slides](slides/scheffel_eva_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+  <div class="talk-item">
+    <div class="talk-abbr">Online</div>
+    <div class="talk-body">
+      <div class="talk-title">ECOSTA – online</div>
+      <div class="talk-date">2025</div>
+      <div class="talk-links">
+        <a class="talk-btn" href="https://www.cmstatistics.org/EcoSta2025/index.php" target="_blank" rel="noopener noreferrer">WEBSITE</a>
+        <a class="talk-btn" href="slides/ecosta2025.pdf" target="_blank" rel="noopener noreferrer">SLIDES</a>
+      </div>
+    </div>
+  </div>
 
-**Dresden**
+  <div class="talk-item">
+    <div class="talk-abbr">Berlin</div>
+    <div class="talk-body">
+      <div class="talk-title">CMStatistics – Berlin, Germany</div>
+      <div class="talk-date">2023</div>
+      <div class="talk-links">
+        <a class="talk-btn" href="https://www.cmstatistics.org/CMStatistics2023/index.php" target="_blank" rel="noopener noreferrer">WEBSITE</a>
+        <a class="talk-btn" href="slides/cmstatistics2023.pdf" target="_blank" rel="noopener noreferrer">SLIDES</a>
+      </div>
+    </div>
+  </div>
 
-   German Probability and Statistics Days – Dresden, Germany
-
-   *2025*
-
-   [Slides](slides/scheffel_gpsd_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
-
- **Online**
-
-   ECOSTA – online
-
-   *2025*
-
-   Extending Brown-Resnick stationarity to the max-domain of attraction
-
-   [Website](https://www.cmstatistics.org/EcoSta2025/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
-   [Slides](slides/scheffel_ecosta_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
-
- **Bochum**
-
-   SPP 2265 Workshop: Geometric extreme value theory – Bochum, Germany
-
-   *2024*
-
-   Extending Brown-Resnick Stationarity to Maximum Domain of Attraction
-
-   [Website](https://sites.google.com/view/geometric-extremes-bochum/home){.talk-btn target="_blank" rel="noopener noreferrer"}
-
- **Berlin**
-
-   CMStatistics – Berlin, Germany
-
-   *2023*
-
-   Long range dependence in extreme value analysis
-
-   [Website](https://www.cmstatistics.org/CMStatistics2023/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
-   [Slides](slides/cmstatistics2023.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+</div>
