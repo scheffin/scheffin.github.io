@@ -25,6 +25,8 @@ Ioan Scheffel, Marco Oesting, Gilles Stupfler
 
 ::: {.pub-links}
 [DOI](https://doi.org/10.1016/j.spa.2026.104929){.pub-btn target="_blank" rel="noopener noreferrer"}
+[arXiv](https://arxiv.org/pdf/2506.20789){.pub-btn target="_blank" rel="noopener noreferrer"}
+[PDF](https://arxiv.org/pdf/2604.11434){.pub-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
