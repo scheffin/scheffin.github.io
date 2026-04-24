@@ -8,7 +8,7 @@ I am a PhD candidate in mathematics at the [University of Stuttgart](https://www
 
 I am currently finishing my PhD and looking for postdoctoral positions.
 
-**Research interests:** extreme value theory, stochastic processes, time series, asymptotic statistics.
+**Research interests:** extreme value theory, stochastic processes, time series, asymptotic statistics, and causality.
 
 ## Contact
 
