@@ -6,6 +6,27 @@ title: "Talks"
 
 ::: {.talk-item}
 ::: {.talk-abbr}
+Bolzano
+:::
+::: {.talk-body}
+::: {.talk-title}
+Research Seminar - Free University of Bozen-Bolzano
+:::
+
+::: {.talk-date}
+Mai 2026
+:::
+
+::: {.talk-links}
+[Slides](slides/scheffel_unbiz2026.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
+
+
+::: {.talk-item}
+::: {.talk-abbr}
 Chapel Hill
 :::
 ::: {.talk-body}
