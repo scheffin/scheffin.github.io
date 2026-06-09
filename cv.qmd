@@ -13,7 +13,7 @@ title: "CV"
 
 Advisor: Marco Oesting
 
-Topic: Long memory in extreme value analysis
+Topic: Modeling and Statistical Analysis of Extremes in Stationary Stochastic Processes
 :::
 :::
 
