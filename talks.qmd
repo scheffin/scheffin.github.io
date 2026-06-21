@@ -4,6 +4,31 @@ title: "Talks"
 
 ::: {.talks-list}
 
+
+::: {.talk-item}
+::: {.talk-abbr}
+Stockholm
+:::
+::: {.talk-body}
+::: {.talk-title}
+Research Seminar - KTH Royal Institute of Technology
+:::
+
+::: {.talk-date}
+June 2026
+:::
+
+::: {.talk-links}
+[Slides](slides/scheffel_kth_2026.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
+
+
+
+
+
 ::: {.talk-item}
 ::: {.talk-abbr}
 Bolzano

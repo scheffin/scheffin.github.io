@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ioan Scheffel",
     "section": "",
-    "text": "Bolzano\n\n\n\nResearch Seminar - Free University of Bozen-Bolzano\n\n\nMai 2026\n\n\nSlides\n\n\n\n\n\nChapel Hill\n\n\n\n14th International Conference on Extreme Value Analysis (EVA) – University of North Carolina at Chapel Hill, USA\n\n\nJun 2025\n\n\nWebsite Slides\n\n\n\n\n\nDresden\n\n\n\n17th German Probability and Statistics Days (GPSD) – Technische Universität Dresden, Germany\n\n\nMar 2025\n\n\nSlides\n\n\n\n\n\nTokyo\n\n\n\n8th International Conference on Econometrics and Statistics (EcoSta) – online\n\n\nAug 2025\n\n\nWebsite Slides\n\n\n\n\n\nBochum\n\n\n\nSPP 2265 Workshop: Geometric extreme value theory – Ruhr University Bochum, Germany\n\n\nOct 2024\n\n\nWebsite\n\n\n\n\n\nBerlin\n\n\n\n16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics) – Hochschule für Technik und Wirtschaft Berlin, Germany\n\n\nDec 2023\n\n\nWebsite"
+    "text": "I am a PhD candidate in mathematics at the University of Stuttgart, supervised by Marco Oesting.\nI am currently finishing my PhD and looking for postdoctoral positions.\nResearch interests: extreme value theory, stochastic processes, time series, asymptotic statistics, and causality.\n\n\nEmail: ioan.scheffel@mathematik.uni-stuttgart.de\nAffiliation: University of Stuttgart"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Ioan Scheffel",
+    "section": "",
+    "text": "Email: ioan.scheffel@mathematik.uni-stuttgart.de\nAffiliation: University of Stuttgart"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Content coming soon."
   },
   {
     "objectID": "publications.html",
@@ -28,11 +42,11 @@
     "text": "Preprints\n\n\n\narXiv\n\n\n\nMaxima of stationary systems of randomly time-changed Lévy particles\n\n\nIoan Scheffel\n\n\narXiv preprint, 2026\n\n\narXiv PDF"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
     "section": "",
-    "text": "Content coming soon."
+    "text": "Stockholm\n\n\n\nResearch Seminar - KTH Royal Institute of Technology\n\n\nJune 2026\n\n\nSlides\n\n\n\n\n\nBolzano\n\n\n\nResearch Seminar - Free University of Bozen-Bolzano\n\n\nMai 2026\n\n\nSlides\n\n\n\n\n\nChapel Hill\n\n\n\n14th International Conference on Extreme Value Analysis (EVA) – University of North Carolina at Chapel Hill, USA\n\n\nJun 2025\n\n\nWebsite Slides\n\n\n\n\n\nDresden\n\n\n\n17th German Probability and Statistics Days (GPSD) – Technische Universität Dresden, Germany\n\n\nMar 2025\n\n\nSlides\n\n\n\n\n\nTokyo\n\n\n\n8th International Conference on Econometrics and Statistics (EcoSta) – online\n\n\nAug 2025\n\n\nWebsite Slides\n\n\n\n\n\nBochum\n\n\n\nSPP 2265 Workshop: Geometric extreme value theory – Ruhr University Bochum, Germany\n\n\nOct 2024\n\n\nWebsite\n\n\n\n\n\nBerlin\n\n\n\n16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics) – Hochschule für Technik und Wirtschaft Berlin, Germany\n\n\nDec 2023\n\n\nWebsite"
   },
   {
     "objectID": "cv.html",
@@ -54,19 +68,5 @@
     "title": "CV",
     "section": "Work",
     "text": "Work\n\n\n2023–present\n\n\nResearch Assistant, Institute of Stochastics and Applications, University of Stuttgart"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ioan Scheffel",
-    "section": "",
-    "text": "I am a PhD candidate in mathematics at the University of Stuttgart, supervised by Marco Oesting.\nI am currently finishing my PhD and looking for postdoctoral positions.\nResearch interests: extreme value theory, stochastic processes, time series, asymptotic statistics, and causality.\n\n\nEmail: ioan.scheffel@mathematik.uni-stuttgart.de\nAffiliation: University of Stuttgart"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Ioan Scheffel",
-    "section": "",
-    "text": "Email: ioan.scheffel@mathematik.uni-stuttgart.de\nAffiliation: University of Stuttgart"
   }
 ]
