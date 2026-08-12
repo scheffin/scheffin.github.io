@@ -61,4 +61,29 @@ Ioan Scheffel
 :::
 :::
 
+
+::: {.pub-item}
+::: {.pub-abbr}
+arXiv
+:::
+::: {.pub-body}
+::: {.pub-title}
+Central limit theory for serial tail dependence estimators in heavy-tailed long memory linear time series
+:::
+
+::: {.pub-authors}
+Ioan Scheffel, Marco Oesting, Gilles Stupfler
+:::
+
+::: {.pub-venue}
+*arXiv preprint*, 2026
+:::
+
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2608.10944){.pub-btn target="_blank" rel="noopener noreferrer"}
+[PDF](https://arxiv.org/pdf/2608.10944){.pub-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
 :::
