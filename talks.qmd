@@ -4,30 +4,25 @@ title: "Talks"
 
 ::: {.talks-list}
 
-
 ::: {.talk-item}
 ::: {.talk-abbr}
 Stockholm
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-Research Seminar - KTH Royal Institute of Technology
+Dependence in Extreme Value Theory: Tail Clustering and Maxima over Time-Changed Hidden Events
 :::
-
+::: {.talk-event}
+Research Seminar, KTH Royal Institute of Technology
+:::
 ::: {.talk-date}
 June 2026
 :::
-
 ::: {.talk-links}
 [Slides](slides/scheffel_kth_2026.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
-
-
-
-
-
 
 ::: {.talk-item}
 ::: {.talk-abbr}
@@ -35,20 +30,40 @@ Bolzano
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-Research Seminar - Free University of Bozen-Bolzano
+Dependence in Extreme Value Theory: Tail Clustering and Maxima over Time-Changed Hidden Events
 :::
-
+::: {.talk-event}
+Research Seminar, Free University of Bozen-Bolzano
+:::
 ::: {.talk-date}
-Mai 2026
+May 2026
 :::
-
 ::: {.talk-links}
 [Slides](slides/scheffel_unbiz2026.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
 
-
+::: {.talk-item}
+::: {.talk-abbr}
+Online
+:::
+::: {.talk-body}
+::: {.talk-title}
+Extending Brown–Resnick Stationarity to the Max-Domain of Attraction
+:::
+::: {.talk-event}
+8th International Conference on Econometrics and Statistics (EcoSta)
+:::
+::: {.talk-date}
+August 2025
+:::
+::: {.talk-links}
+[Website](https://www.cmstatistics.org/EcoSta2025/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
+[Slides](slides/scheffel_ecosta_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
 
 ::: {.talk-item}
 ::: {.talk-abbr}
@@ -56,13 +71,14 @@ Chapel Hill
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-14th International Conference on Extreme Value Analysis (EVA) – University of North Carolina at Chapel Hill, USA
+Asymptotics of Peaks-over-Threshold Estimators in Long Memory Linear Time Series
 :::
-
+::: {.talk-event}
+14th International Conference on Extreme Value Analysis (EVA), University of North Carolina at Chapel Hill
+:::
 ::: {.talk-date}
-Jun 2025
+June 2025
 :::
-
 ::: {.talk-links}
 [Website](https://eva2025.unc.edu/){.talk-btn target="_blank" rel="noopener noreferrer"}
 [Slides](slides/scheffel_eva_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
@@ -76,35 +92,16 @@ Dresden
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-17th German Probability and Statistics Days (GPSD) – Technische Universität Dresden, Germany
+Asymptotics of Peaks-over-Threshold Estimators in Long Memory Linear Time Series
 :::
-
+::: {.talk-event}
+17th German Probability and Statistics Days (GPSD), TU Dresden
+:::
 ::: {.talk-date}
-Mar 2025
+March 2025
 :::
-
 ::: {.talk-links}
 [Slides](slides/scheffel_gpsd_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
-:::
-:::
-:::
-
-::: {.talk-item}
-::: {.talk-abbr}
-Tokyo
-:::
-::: {.talk-body}
-::: {.talk-title}
-8th International Conference on Econometrics and Statistics (EcoSta) – online
-:::
-
-::: {.talk-date}
-Aug 2025
-:::
-
-::: {.talk-links}
-[Website](https://www.cmstatistics.org/EcoSta2025/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
-[Slides](slides/scheffel_ecosta_2025.pdf){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::
 :::
 :::
@@ -115,14 +112,14 @@ Bochum
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-SPP 2265 Workshop: Geometric extreme value theory –
-Ruhr University Bochum, Germany
+SPP 2265 Workshop: Geometric Extreme Value Theory
 :::
-
+::: {.talk-event}
+Ruhr University Bochum
+:::
 ::: {.talk-date}
-Oct 2024
+October 2024
 :::
-
 ::: {.talk-links}
 [Website](https://sites.google.com/view/geometric-extremes-bochum/home){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::
@@ -135,13 +132,14 @@ Berlin
 :::
 ::: {.talk-body}
 ::: {.talk-title}
-16th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics) – Hochschule für Technik und Wirtschaft Berlin, Germany
+16th International Conference of the ERCIM WG on Computational and Methodological Statistics
 :::
-
+::: {.talk-event}
+Hochschule für Technik und Wirtschaft Berlin
+:::
 ::: {.talk-date}
-Dec 2023
+December 2023
 :::
-
 ::: {.talk-links}
 [Website](https://www.cmstatistics.org/CMStatistics2023/index.php){.talk-btn target="_blank" rel="noopener noreferrer"}
 :::

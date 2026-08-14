@@ -1,5 +1,6 @@
 ---
 title: "Dissertation"
+description: "Doctoral dissertation by Ioan Scheffel on extreme value theory for stationary stochastic processes."
 ---
 
 ::: {.dissertation-page}
@@ -12,9 +13,28 @@ Doctoral dissertation · 2026
 **Ioan Scheffel**  
 Institute of Stochastics and Applications, University of Stuttgart
 
-This cumulative dissertation was submitted to the Faculty of Mathematics and Physics at the University of Stuttgart for the degree of Doctor of Natural Sciences (Dr. rer. nat.). It studies the modeling and statistical analysis of extreme events in stationary stochastic processes.
+This cumulative dissertation was submitted to the Faculty of Mathematics and Physics at the University of Stuttgart for the degree of Doctor of Natural Sciences (Dr. rer. nat.).
 
 [Download dissertation (PDF)](theses/dissertation.pdf){.dissertation-btn .dissertation-btn-primary download="Ioan_Scheffel_Dissertation_2026.pdf"}
 
 *232 pages · submitted in 2026*
 :::
+
+## Abstract
+
+This thesis studies extreme value theory for stochastic processes, focusing on the asymptotic analysis and construction of stationary processes with nonstandard dependence structures. It considers two classes of stochastic processes: long memory linear time series, for which it develops central limit theory for threshold-based tail estimators, and maxima of time-changed Markovian particle systems, which yield a new class of stationary max-infinitely divisible processes. Together, these address both the Peaks-over-Threshold and Block Maxima approaches to extreme value theory.
+
+For long memory linear time series, the thesis establishes reduction principles for threshold-dependent transformations and serial tail-dependence estimators. These results provide central limit theorems for exceedance-based statistics such as the Hill estimator and extremogram-type estimators, including settings with heavy-tailed innovations and sample-quantile thresholds. For the second class, state-dependent random time changes of Lévy particle systems generate stationary max-infinitely divisible processes while modifying their dependence structure; the resulting processes remain in the max-domain of attraction of the original Lévy–Brown–Resnick process.
+
+## Citation
+
+```bibtex
+@phdthesis{scheffel2026modeling,
+  author = {Scheffel, Ioan},
+  title  = {Modeling and Statistical Analysis of Extremes in
+            Stationary Stochastic Processes},
+  school = {University of Stuttgart},
+  year   = {2026},
+  type   = {Doctoral dissertation (submitted)}
+}
+```

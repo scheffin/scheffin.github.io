@@ -27,6 +27,23 @@ Ioan Scheffel, Marco Oesting, Gilles Stupfler
 [DOI](https://doi.org/10.1016/j.spa.2026.104929){.pub-btn target="_blank" rel="noopener noreferrer"}
 [arXiv](https://arxiv.org/abs/2506.20789){.pub-btn target="_blank" rel="noopener noreferrer"}
 [PDF](https://arxiv.org/pdf/2506.20789){.pub-btn target="_blank" rel="noopener noreferrer"}
+
+<details class="bibtex-details">
+<summary class="pub-btn">BibTeX</summary>
+
+```bibtex
+@article{scheffel2026central,
+  author  = {Scheffel, Ioan and Oesting, Marco and Stupfler, Gilles},
+  title   = {Central limit theory for {Peaks-over-Threshold} partial
+             sums of long memory linear time series},
+  journal = {Stochastic Processes and their Applications},
+  volume  = {197},
+  pages   = {104929},
+  year    = {2026},
+  doi     = {10.1016/j.spa.2026.104929}
+}
+```
+</details>
 :::
 :::
 :::
@@ -57,6 +74,22 @@ Ioan Scheffel
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2604.11434){.pub-btn target="_blank" rel="noopener noreferrer"}
 [PDF](https://arxiv.org/pdf/2604.11434){.pub-btn target="_blank" rel="noopener noreferrer"}
+
+<details class="bibtex-details">
+<summary class="pub-btn">BibTeX</summary>
+
+```bibtex
+@misc{scheffel2026maxima,
+  author        = {Scheffel, Ioan},
+  title         = {Maxima of stationary systems of randomly time-changed
+                   {L\'{e}vy} particles},
+  year          = {2026},
+  eprint        = {2604.11434},
+  archivePrefix = {arXiv},
+  primaryClass  = {math.PR}
+}
+```
+</details>
 :::
 :::
 :::
@@ -82,6 +115,22 @@ Ioan Scheffel, Marco Oesting, Gilles Stupfler
 ::: {.pub-links}
 [arXiv](https://arxiv.org/abs/2608.10944){.pub-btn target="_blank" rel="noopener noreferrer"}
 [PDF](https://arxiv.org/pdf/2608.10944){.pub-btn target="_blank" rel="noopener noreferrer"}
+
+<details class="bibtex-details">
+<summary class="pub-btn">BibTeX</summary>
+
+```bibtex
+@misc{scheffel2026serial,
+  author        = {Scheffel, Ioan and Oesting, Marco and Stupfler, Gilles},
+  title         = {Central limit theory for serial tail dependence estimators
+                   in heavy-tailed long memory linear time series},
+  year          = {2026},
+  eprint        = {2608.10944},
+  archivePrefix = {arXiv},
+  primaryClass  = {math.ST}
+}
+```
+</details>
 :::
 :::
 :::

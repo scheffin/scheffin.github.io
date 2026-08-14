@@ -2,14 +2,24 @@ project:
   type: website
   output-dir: docs
 
+lang: en
+
 website:
   title: "Ioan Scheffel"
+  site-url: "https://scheffin.github.io"
+  description: "Ioan Scheffel — researcher in extreme value theory, stochastic processes, time series, and asymptotic statistics."
+  favicon: favicon.svg
+  image: photo_square.jpg
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd
         text: about
       - href: publications.qmd
         text: publications
+      - href: research.qmd
+        text: research
       - href: dissertation.qmd
         text: dissertation
       - href: talks.qmd

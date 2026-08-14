@@ -2,6 +2,10 @@
 title: "CV"
 ---
 
+::: {.content-visible when-format="html"}
+[Download CV (PDF)](cv.pdf){.dissertation-btn .dissertation-btn-primary download="Ioan_Scheffel_CV.pdf"}
+:::
+
 ## Education
 
 ::: {.cv-entry}
@@ -9,11 +13,13 @@ title: "CV"
 2023–2026
 :::
 ::: {.cv-main}
-**PhD in Mathematics**, University of Stuttgart
+**PhD candidate in Mathematics**, University of Stuttgart
 
 Advisor: Marco Oesting
 
 Topic: Modeling and Statistical Analysis of Extremes in Stationary Stochastic Processes
+
+Dissertation submitted August 2026
 :::
 :::
 
@@ -25,9 +31,6 @@ Topic: Modeling and Statistical Analysis of Extremes in Stationary Stochastic Pr
 **MSc in Mathematics**, University of Stuttgart
 
 Advisor: Jürgen Dippon
-
-Thesis: A novel weighted mean approach to estimate the distribution function of potential outcomes in observational studies—an asymptotic analysis
-
 :::
 :::
 

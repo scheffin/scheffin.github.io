@@ -53,6 +53,7 @@ body {
 
 .talk-abbr p,
 .talk-title p,
+.talk-event p,
 .talk-date p,
 .talk-links p {
   margin: 0;
@@ -60,8 +61,15 @@ body {
 
 .talk-title {
   font-size: 1.05rem;
+  font-weight: 600;
   line-height: 1.45;
   margin: 0 0 0.2rem 0;
+}
+
+.talk-event {
+  font-size: 0.98rem;
+  line-height: 1.4;
+  margin: 0 0 0.1rem 0;
 }
 
 .talk-date {
@@ -141,6 +149,7 @@ body {
   display: flex;
   gap: 0.6rem;
   flex-wrap: wrap;
+  align-items: flex-start;
 }
 
 .pub-btn {
@@ -161,6 +170,29 @@ body {
   text-decoration: none;
   border-color: #555;
   color: inherit;
+}
+
+.bibtex-details {
+  margin: 0;
+}
+
+.bibtex-details > summary {
+  cursor: pointer;
+  list-style: none;
+  width: fit-content;
+}
+
+.bibtex-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.bibtex-details[open] > summary {
+  border-color: #1098ad;
+  color: #087f8c;
+}
+
+.bibtex-details .sourceCode {
+  margin: 0.75rem 0 0;
 }
 
 .pub-abbr p,
@@ -195,6 +227,13 @@ body {
   border-radius: 50%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.profile-link {
+  display: inline-block;
+  margin: 0.25rem 0.65rem 0.15rem 0;
+  font-size: 0.92rem;
+  font-weight: 600;
 }
 
 .dissertation-announcement,

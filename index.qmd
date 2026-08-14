@@ -6,9 +6,26 @@ title: "Ioan Scheffel"
 ::: {.column width="65%"}
 I am a PhD candidate in mathematics at the [University of Stuttgart](https://www.uni-stuttgart.de/), supervised by [Marco Oesting](https://www.isa.uni-stuttgart.de/institut/team/Oesting/).
 
-I am currently finishing my PhD and looking for postdoctoral positions.
+I recently submitted my doctoral dissertation and am looking for postdoctoral positions.
 
-**Research interests:** extreme value theory, stochastic processes, time series, asymptotic statistics, and causality.
+[Explore my research](research.qmd){.dissertation-btn .dissertation-btn-primary}
+
+## Contact
+
+Email: [ioan.scheffel@mathematik.uni-stuttgart.de](mailto:ioan.scheffel@mathematik.uni-stuttgart.de)
+
+Affiliation: University of Stuttgart
+
+[ORCID](https://orcid.org/0009-0005-1605-3646){.profile-link target="_blank" rel="me noopener noreferrer"}
+[Google Scholar](https://scholar.google.com/scholar?q=%22Ioan+Scheffel%22){.profile-link target="_blank" rel="noopener noreferrer"}
+[arXiv](https://arxiv.org/search/?query=Ioan+Scheffel&searchtype=author){.profile-link target="_blank" rel="noopener noreferrer"}
+[GitHub](https://github.com/scheffin){.profile-link target="_blank" rel="me noopener noreferrer"}
+:::
+
+::: {.column width="35%"}
+![](photo_relaxed.png){.profile-photo}
+:::
+:::
 
 ::: {.dissertation-announcement}
 ::: {.dissertation-kicker}
@@ -20,16 +37,4 @@ New dissertation · 2026
 My doctoral dissertation is now available online.
 
 [Learn more](dissertation.qmd){.dissertation-btn} [Download PDF](theses/dissertation.pdf){.dissertation-btn .dissertation-btn-primary download="Ioan_Scheffel_Dissertation_2026.pdf"}
-:::
-
-## Contact
-
-Email: [ioan.scheffel@mathematik.uni-stuttgart.de](mailto:ioan.scheffel@mathematik.uni-stuttgart.de)
-
-Affiliation: University of Stuttgart
-:::
-
-::: {.column width="35%"}
-![](photo_relaxed.png){.profile-photo}
-:::
 :::

@@ -36,6 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./favicon.svg" rel="icon" type="image/svg+xml">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -76,6 +77,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Research – Ioan Scheffel">
+<meta property="og:description" content="Ioan Scheffel — researcher in extreme value theory, stochastic processes, time series, and asymptotic statistics.">
+<meta property="og:image" content="https://scheffin.github.io/photo_square.jpg">
+<meta property="og:site_name" content="Ioan Scheffel">
+<meta name="twitter:title" content="Research – Ioan Scheffel">
+<meta name="twitter:description" content="Ioan Scheffel — researcher in extreme value theory, stochastic processes, time series, and asymptotic statistics.">
+<meta name="twitter:image" content="https://scheffin.github.io/photo_square.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -102,6 +111,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
+<span class="menu-text">research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./dissertation.html"> 
@@ -149,9 +162,19 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Content coming soon.</p>
+<p>My research lies at the intersection of extreme value theory, stochastic processes, time series, and asymptotic statistics. I am particularly interested in how nonstandard dependence structures affect both statistical inference and probabilistic models for rare events.</p>
+<section id="extremes-in-long-memory-time-series" class="level2">
+<h2 class="anchored" data-anchor-id="extremes-in-long-memory-time-series">Extremes in long memory time series</h2>
+<p>Long-range dependence creates persistent extremal dependence that falls outside many of the mixing and anti-clustering frameworks commonly used in extreme value theory. My work develops reduction principles and central limit theory for threshold-based statistics in long memory linear processes, including the Hill estimator, tail empirical processes, and serial tail-dependence estimators.</p>
+<p><a href="https://doi.org/10.1016/j.spa.2026.104929" class="pub-btn" target="_blank" rel="noopener noreferrer">Related publication</a> <a href="https://arxiv.org/abs/2608.10944" class="pub-btn" target="_blank" rel="noopener noreferrer">Related preprint</a></p>
+</section>
+<section id="stationary-models-for-extremal-processes" class="level2">
+<h2 class="anchored" data-anchor-id="stationary-models-for-extremal-processes">Stationary models for extremal processes</h2>
+<p>I study particle system constructions of stationary max-infinitely divisible processes. Random, state-dependent time changes of the underlying particles make it possible to modify the temporal dependence structure of the resulting max-id processes while preserving stationarity and the limiting max-stable process. This connects techniques from the theory of Markov processes, Poisson particle systems, and extreme value theory.</p>
+<p><a href="https://arxiv.org/abs/2604.11434" class="pub-btn" target="_blank" rel="noopener noreferrer">Related preprint</a></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -227,7 +250,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/scheffin\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

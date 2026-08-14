@@ -2,4 +2,17 @@
 title: "Research"
 ---
 
-Content coming soon.
+My research lies at the intersection of extreme value theory, stochastic processes, time series, and asymptotic statistics. I am particularly interested in how nonstandard dependence structures affect both statistical inference and probabilistic models for rare events.
+
+## Extremes in long memory time series
+
+Long-range dependence creates persistent extremal dependence that falls outside many of the mixing and anti-clustering frameworks commonly used in extreme value theory. My work develops reduction principles and central limit theory for threshold-based statistics in long memory linear processes, including the Hill estimator, tail empirical processes, and serial tail-dependence estimators.
+
+[Related publication](https://doi.org/10.1016/j.spa.2026.104929){.pub-btn target="_blank" rel="noopener noreferrer"}
+[Related preprint](https://arxiv.org/abs/2608.10944){.pub-btn target="_blank" rel="noopener noreferrer"}
+
+## Stationary models for extremal processes
+
+I study particle system constructions of stationary max-infinitely divisible processes. Random, state-dependent time changes of the underlying particles make it possible to modify the temporal dependence structure of the resulting max-id processes while preserving stationarity and the limiting max-stable process. This connects techniques from the theory of Markov processes, Poisson particle systems, and extreme value theory.
+
+[Related preprint](https://arxiv.org/abs/2604.11434){.pub-btn target="_blank" rel="noopener noreferrer"}

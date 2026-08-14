@@ -36,6 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./favicon.svg" rel="icon" type="image/svg+xml">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -76,6 +77,16 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Ioan Scheffel">
+<meta property="og:image" content="https://scheffin.github.io/photo_relaxed.png">
+<meta property="og:site_name" content="Ioan Scheffel">
+<meta property="og:image:height" content="1479">
+<meta property="og:image:width" content="1479">
+<meta name="twitter:title" content="Ioan Scheffel">
+<meta name="twitter:image" content="https://scheffin.github.io/photo_relaxed.png">
+<meta name="twitter:image-height" content="1479">
+<meta name="twitter:image-width" content="1479">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -102,6 +113,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./dissertation.html"> 
@@ -152,8 +167,18 @@ ul.task-list li input[type="checkbox"] {
 <div class="columns v-center-container">
 <div class="column" style="width:65%;">
 <p>I am a PhD candidate in mathematics at the <a href="https://www.uni-stuttgart.de/">University of Stuttgart</a>, supervised by <a href="https://www.isa.uni-stuttgart.de/institut/team/Oesting/">Marco Oesting</a>.</p>
-<p>I am currently finishing my PhD and looking for postdoctoral positions.</p>
-<p><strong>Research interests:</strong> extreme value theory, stochastic processes, time series, asymptotic statistics, and causality.</p>
+<p>I recently submitted my doctoral dissertation and am looking for postdoctoral positions.</p>
+<p><a href="./research.html" class="dissertation-btn dissertation-btn-primary">Explore my research</a></p>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<p>Email: <a href="mailto:ioan.scheffel@mathematik.uni-stuttgart.de">ioan.scheffel@mathematik.uni-stuttgart.de</a></p>
+<p>Affiliation: University of Stuttgart</p>
+<p><a href="https://orcid.org/0009-0005-1605-3646" class="profile-link" target="_blank" rel="me noopener noreferrer">ORCID</a> <a href="https://scholar.google.com/scholar?q=%22Ioan+Scheffel%22" class="profile-link" target="_blank" rel="noopener noreferrer">Google Scholar</a> <a href="https://arxiv.org/search/?query=Ioan+Scheffel&amp;searchtype=author" class="profile-link" target="_blank" rel="noopener noreferrer">arXiv</a> <a href="https://github.com/scheffin" class="profile-link" target="_blank" rel="me noopener noreferrer">GitHub</a></p>
+</section>
+</div><div class="column" style="width:35%;">
+<p><img src="photo_relaxed.png" class="profile-photo img-fluid"></p>
+</div>
+</div>
 <div class="dissertation-announcement">
 <div class="dissertation-kicker">
 <p>New dissertation · 2026</p>
@@ -163,15 +188,6 @@ ul.task-list li input[type="checkbox"] {
 <p>My doctoral dissertation is now available online.</p>
 <p><a href="./dissertation.html" class="dissertation-btn">Learn more</a> <a href="theses/dissertation.pdf" class="dissertation-btn dissertation-btn-primary" download="Ioan_Scheffel_Dissertation_2026.pdf">Download PDF</a></p>
 </section>
-</div>
-<section id="contact" class="level2">
-<h2 class="anchored" data-anchor-id="contact">Contact</h2>
-<p>Email: <a href="mailto:ioan.scheffel@mathematik.uni-stuttgart.de">ioan.scheffel@mathematik.uni-stuttgart.de</a></p>
-<p>Affiliation: University of Stuttgart</p>
-</section>
-</div><div class="column" style="width:35%;">
-<p><img src="photo_relaxed.png" class="profile-photo img-fluid"></p>
-</div>
 </div>
 
 
@@ -250,7 +266,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/scheffin\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
