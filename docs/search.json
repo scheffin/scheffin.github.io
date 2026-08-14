@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ioan Scheffel",
-    "section": "",
-    "text": "I am a PhD candidate in mathematics at the University of Stuttgart, supervised by Marco Oesting.\nI am currently finishing my PhD and looking for postdoctoral positions.\nResearch interests: extreme value theory, stochastic processes, time series, asymptotic statistics, and causality.\n\n\nEmail: ioan.scheffel@mathematik.uni-stuttgart.de\nAffiliation: University of Stuttgart"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Ioan Scheffel",
-    "section": "",
-    "text": "Email: ioan.scheffel@mathematik.uni-stuttgart.de\nAffiliation: University of Stuttgart"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -21,25 +7,18 @@
     "text": "Content coming soon."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "dissertation.html",
+    "href": "dissertation.html",
+    "title": "Dissertation",
     "section": "",
-    "text": "SPA\n\n\n\nCentral limit theory for Peaks-over-Threshold partial sums of long memory linear time series\n\n\nIoan Scheffel, Marco Oesting, Gilles Stupfler\n\n\nStochastic Processes and their Applications 197 (2026), Article 104929\n\n\nDOI arXiv PDF"
+    "text": "Doctoral dissertation · 2026\n\n\n\nIoan Scheffel\nInstitute of Stochastics and Applications, University of Stuttgart\nThis cumulative dissertation was submitted to the Faculty of Mathematics and Physics at the University of Stuttgart for the degree of Doctor of Natural Sciences (Dr. rer. nat.). It studies the modeling and statistical analysis of extreme events in stationary stochastic processes.\nDownload dissertation (PDF)\n232 pages · submitted in 2026"
   },
   {
-    "objectID": "publications.html#published-papers",
-    "href": "publications.html#published-papers",
-    "title": "Publications",
+    "objectID": "dissertation.html#modeling-and-statistical-analysis-of-extremes-in-stationary-stochastic-processes",
+    "href": "dissertation.html#modeling-and-statistical-analysis-of-extremes-in-stationary-stochastic-processes",
+    "title": "Dissertation",
     "section": "",
-    "text": "SPA\n\n\n\nCentral limit theory for Peaks-over-Threshold partial sums of long memory linear time series\n\n\nIoan Scheffel, Marco Oesting, Gilles Stupfler\n\n\nStochastic Processes and their Applications 197 (2026), Article 104929\n\n\nDOI arXiv PDF"
-  },
-  {
-    "objectID": "publications.html#preprints",
-    "href": "publications.html#preprints",
-    "title": "Publications",
-    "section": "Preprints",
-    "text": "Preprints\n\n\n\narXiv\n\n\n\nMaxima of stationary systems of randomly time-changed Lévy particles\n\n\nIoan Scheffel\n\n\narXiv preprint, 2026\n\n\narXiv PDF\n\n\n\n\n\narXiv\n\n\n\nCentral limit theory for serial tail dependence estimators in heavy-tailed long memory linear time series\n\n\nIoan Scheffel, Marco Oesting, Gilles Stupfler\n\n\narXiv preprint, 2026\n\n\narXiv PDF"
+    "text": "Ioan Scheffel\nInstitute of Stochastics and Applications, University of Stuttgart\nThis cumulative dissertation was submitted to the Faculty of Mathematics and Physics at the University of Stuttgart for the degree of Doctor of Natural Sciences (Dr. rer. nat.). It studies the modeling and statistical analysis of extreme events in stationary stochastic processes.\nDownload dissertation (PDF)\n232 pages · submitted in 2026"
   },
   {
     "objectID": "talks.html",
@@ -68,5 +47,40 @@
     "title": "CV",
     "section": "Work",
     "text": "Work\n\n\n2023–present\n\n\nResearch Assistant, Institute of Stochastics and Applications, University of Stuttgart"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ioan Scheffel",
+    "section": "",
+    "text": "I am a PhD candidate in mathematics at the University of Stuttgart, supervised by Marco Oesting.\nI am currently finishing my PhD and looking for postdoctoral positions.\nResearch interests: extreme value theory, stochastic processes, time series, asymptotic statistics, and causality.\n\n\nNew dissertation · 2026\n\n\n\nMy doctoral dissertation is now available online.\nLearn more Download PDF\n\n\n\n\nEmail: ioan.scheffel@mathematik.uni-stuttgart.de\nAffiliation: University of Stuttgart"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Ioan Scheffel",
+    "section": "",
+    "text": "Email: ioan.scheffel@mathematik.uni-stuttgart.de\nAffiliation: University of Stuttgart"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "SPA\n\n\n\nCentral limit theory for Peaks-over-Threshold partial sums of long memory linear time series\n\n\nIoan Scheffel, Marco Oesting, Gilles Stupfler\n\n\nStochastic Processes and their Applications 197 (2026), Article 104929\n\n\nDOI arXiv PDF"
+  },
+  {
+    "objectID": "publications.html#published-papers",
+    "href": "publications.html#published-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "SPA\n\n\n\nCentral limit theory for Peaks-over-Threshold partial sums of long memory linear time series\n\n\nIoan Scheffel, Marco Oesting, Gilles Stupfler\n\n\nStochastic Processes and their Applications 197 (2026), Article 104929\n\n\nDOI arXiv PDF"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\n\n\narXiv\n\n\n\nMaxima of stationary systems of randomly time-changed Lévy particles\n\n\nIoan Scheffel\n\n\narXiv preprint, 2026\n\n\narXiv PDF\n\n\n\n\n\narXiv\n\n\n\nCentral limit theory for serial tail dependence estimators in heavy-tailed long memory linear time series\n\n\nIoan Scheffel, Marco Oesting, Gilles Stupfler\n\n\narXiv preprint, 2026\n\n\narXiv PDF"
   }
 ]

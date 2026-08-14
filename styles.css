@@ -196,3 +196,62 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+.dissertation-announcement,
+.dissertation-page {
+  border-left: 0.3rem solid #1098ad;
+  background: #f2f9fa;
+  padding: 1.25rem 1.4rem;
+  margin: 1.8rem 0;
+  border-radius: 0.25rem;
+}
+
+.dissertation-announcement h3,
+.dissertation-page h2 {
+  margin-top: 0.35rem;
+  line-height: 1.35;
+}
+
+.dissertation-kicker {
+  color: #087f8c;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.dissertation-kicker p {
+  margin: 0;
+}
+
+.dissertation-btn {
+  display: inline-block;
+  padding: 0.55rem 1rem;
+  margin: 0.35rem 0.45rem 0.15rem 0;
+  border: 1px solid #1098ad;
+  border-radius: 0.2rem;
+  color: #087f8c;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-decoration: none;
+}
+
+.dissertation-btn-primary,
+.dissertation-btn:hover {
+  background: #1098ad;
+  color: #fff;
+  text-decoration: none;
+}
+
+.dissertation-btn-primary:hover {
+  background: #087f8c;
+  border-color: #087f8c;
+  color: #fff;
+}
+
+@media (max-width: 700px) {
+  .dissertation-announcement {
+    margin-top: 1.4rem;
+  }
+}

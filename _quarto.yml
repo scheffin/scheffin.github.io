@@ -10,6 +10,8 @@ website:
         text: about
       - href: publications.qmd
         text: publications
+      - href: dissertation.qmd
+        text: dissertation
       - href: talks.qmd
         text: talks
       - href: cv.qmd

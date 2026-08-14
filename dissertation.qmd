@@ -1,0 +1,20 @@
+---
+title: "Dissertation"
+---
+
+::: {.dissertation-page}
+::: {.dissertation-kicker}
+Doctoral dissertation · 2026
+:::
+
+## Modeling and Statistical Analysis of Extremes in Stationary Stochastic Processes
+
+**Ioan Scheffel**  
+Institute of Stochastics and Applications, University of Stuttgart
+
+This cumulative dissertation was submitted to the Faculty of Mathematics and Physics at the University of Stuttgart for the degree of Doctor of Natural Sciences (Dr. rer. nat.). It studies the modeling and statistical analysis of extreme events in stationary stochastic processes.
+
+[Download dissertation (PDF)](theses/dissertation.pdf){.dissertation-btn .dissertation-btn-primary download="Ioan_Scheffel_Dissertation_2026.pdf"}
+
+*232 pages · submitted in 2026*
+:::
