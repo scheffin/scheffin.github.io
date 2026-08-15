@@ -16,14 +16,16 @@ website:
     left:
       - href: index.qmd
         text: about
-      - href: publications.qmd
-        text: publications
       - href: research.qmd
         text: research
+      - href: publications.qmd
+        text: publications
       - href: dissertation.qmd
         text: dissertation
       - href: talks.qmd
         text: talks
+      - href: teaching.qmd
+        text: teaching
       - href: cv.qmd
         text: cv
 

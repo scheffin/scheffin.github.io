@@ -62,3 +62,18 @@ Advisor: Jürgen Dippon
 **Research Assistant**, Institute of Stochastics and Applications, University of Stuttgart
 :::
 :::
+
+## Teaching experience
+
+::: {.cv-entry}
+::: {.cv-date}
+2020–present
+:::
+::: {.cv-main}
+**Teaching Assistant and Tutor**, University of Stuttgart
+
+Led tutorials, exercise classes, and lecture-style exercise sessions; prepared and graded assignments; held student consultations; contributed to exam preparation.
+:::
+:::
+
+**Courses:** Measure and Probability Theory; Mathematical Statistics; Stochastic Processes; Stochastics and Numerical Mathematics for Teacher Education; Analysis I–II; Higher Mathematics for Physicists I–II; Mathematics for Economists I–II.

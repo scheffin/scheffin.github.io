@@ -6,6 +6,8 @@ title: "Ioan Scheffel"
 ::: {.column width="65%"}
 I am a PhD candidate in mathematics at the [University of Stuttgart](https://www.uni-stuttgart.de/), supervised by [Marco Oesting](https://www.isa.uni-stuttgart.de/institut/team/Oesting/).
 
+My research lies at the intersection of extreme value theory, stochastic processes, time series, and asymptotic statistics.
+
 I recently submitted my doctoral dissertation and am looking for postdoctoral positions.
 
 [Explore my research](research.qmd){.dissertation-btn .dissertation-btn-primary}

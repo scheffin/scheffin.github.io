@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+---
+
+Since 2020, I have worked as a teaching assistant and tutor at the University of Stuttgart. I have led tutorials, exercise classes, and lecture-style exercise sessions, prepared and graded assignments, held student consultations, and contributed to exam preparation.
+
+## Courses
+
+- Measure and Probability Theory
+- Mathematical Statistics
+- Stochastic Processes
+- Stochastics and Numerical Mathematics for Teacher Education
+- Analysis I–II
+- Higher Mathematics for Physicists I–II
+- Mathematics for Economists I–II

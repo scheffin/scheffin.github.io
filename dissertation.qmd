@@ -1,6 +1,5 @@
 ---
 title: "Dissertation"
-description: "Doctoral dissertation by Ioan Scheffel on extreme value theory for stationary stochastic processes."
 ---
 
 ::: {.dissertation-page}
