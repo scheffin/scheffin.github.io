@@ -10,7 +10,8 @@ Doctoral dissertation · 2026
 ## Modeling and Statistical Analysis of Extremes in Stationary Stochastic Processes
 
 **Ioan Scheffel**  
-Institute of Stochastics and Applications, University of Stuttgart
+Institute of Stochastics and Applications, University of Stuttgart  
+**PhD committee:** Rafał Kulik, Andrea Barth, and Marco Oesting (supervisor)
 
 This cumulative dissertation was submitted to the Faculty of Mathematics and Physics at the University of Stuttgart for the degree of Doctor of Natural Sciences (Dr. rer. nat.).
 
