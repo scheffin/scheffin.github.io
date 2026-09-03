@@ -28,6 +28,9 @@ website:
         text: teaching
       - href: cv.qmd
         text: cv
+    right:
+      - href: music.qmd
+        text: music
 
 format:
   html:
