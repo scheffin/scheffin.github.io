@@ -317,33 +317,6 @@ body {
   margin: 0;
 }
 
-.midi-player-panel {
-  max-width: 34rem;
-  margin: 1rem 0 0.35rem;
-  padding: 0.85rem 1rem 0.95rem;
-  border: 1px solid #d7e8ea;
-  border-radius: 0.25rem;
-  background: #f2f9fa;
-}
-
-.midi-player-label {
-  margin-bottom: 0.45rem;
-  color: #087f8c;
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.midi-player-label p {
-  margin: 0;
-}
-
-.midi-player-panel audio {
-  display: block;
-  width: 100%;
-}
-
 .score-preview {
   overflow: hidden;
   border: 1px solid #d9d9d9;

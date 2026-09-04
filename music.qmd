@@ -5,29 +5,16 @@ description: ""
 
 ::: {.music-intro}
 ::: {.music-kicker}
-Score and MIDI · for keyboard
+Score · for keyboard
 :::
 
 ## Fugue on the Nokia Tune
 
 **Ioan Scheffel**
 
-A short contrapuntal piece based on the familiar Nokia Tune. Listen below or download the score free of charge.
+A short contrapuntal piece based on the familiar Nokia Tune. The score is available to download free of charge.
 
-::: {.midi-player-panel}
-::: {.midi-player-label}
-Listen to the fugue
-:::
-
-```{=html}
-<audio controls preload="metadata" aria-label="Listen to Fugue on the Nokia Tune">
-  <source src="fugue.mp3" type="audio/mpeg">
-  Your browser does not support embedded audio. <a href="fugue.mp3" download>Download the recording</a> instead.
-</audio>
-```
-:::
-
-[Download score (PDF)](score.pdf){.dissertation-btn .dissertation-btn-primary download="Ioan_Scheffel_Fugue_on_the_Nokia_Tune.pdf"} [Open score in a new tab](score.pdf){.dissertation-btn target="_blank" rel="noopener noreferrer"} [Download MIDI](fugue.midi){.dissertation-btn download="Ioan_Scheffel_Fugue_on_the_Nokia_Tune.midi"}
+[Download score (PDF)](score.pdf){.dissertation-btn .dissertation-btn-primary download="Ioan_Scheffel_Fugue_on_the_Nokia_Tune.pdf"} [Open in a new tab](score.pdf){.dissertation-btn target="_blank" rel="noopener noreferrer"}
 
 *1 page · PDF*
 :::
