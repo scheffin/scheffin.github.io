@@ -6,7 +6,7 @@ My research lies at the intersection of extreme value theory, stochastic process
 
 ## Extremes in long memory time series
 
-Long-range dependence creates persistent extremal dependence that falls outside many of the mixing and anti-clustering frameworks commonly used in extreme value theory. My work develops reduction principles and central limit theory for threshold-based statistics in long memory linear processes, including the Hill estimator and serial tail-dependence estimators.
+Long-range dependence creates persistent extremal dependence that falls outside many of the mixing and anti-clustering frameworks commonly used in extreme value theory. My work develops reduction principles and central limit theory for threshold-based statistics in long memory linear processes, including the Hill estimator and serial tail-dependence estimators. My current focus is on developing statistical inference methods based on these results.
 
 [Related publication](https://doi.org/10.1016/j.spa.2026.104929){.pub-btn target="_blank" rel="noopener noreferrer"}
 [Related preprint](https://arxiv.org/abs/2608.10944){.pub-btn target="_blank" rel="noopener noreferrer"}
