@@ -11,14 +11,14 @@
     "href": "research.html#extremes-in-long-memory-time-series",
     "title": "Research",
     "section": "Extremes in long memory time series",
-    "text": "Extremes in long memory time series\nLong-range dependence creates persistent extremal dependence that falls outside many of the mixing and anti-clustering frameworks commonly used in extreme value theory. My work develops reduction principles and central limit theory for threshold-based statistics in long memory linear processes, including the Hill estimator, tail empirical processes, and serial tail-dependence estimators.\nRelated publication Related preprint"
+    "text": "Extremes in long memory time series\nLong-range dependence creates persistent extremal dependence that falls outside many of the mixing and anti-clustering frameworks commonly used in extreme value theory. My work develops reduction principles and central limit theory for threshold-based statistics in long memory linear processes, including the Hill estimator and serial tail-dependence estimators.\nRelated publication Related preprint"
   },
   {
     "objectID": "research.html#stationary-models-for-extremal-processes",
     "href": "research.html#stationary-models-for-extremal-processes",
     "title": "Research",
     "section": "Stationary models for extremal processes",
-    "text": "Stationary models for extremal processes\nI study particle system constructions of stationary max-infinitely divisible processes. Random, state-dependent time changes of the underlying particles make it possible to modify the temporal dependence structure of the resulting max-id processes while preserving stationarity and the limiting max-stable process. This connects techniques from the theory of Markov processes, Poisson particle systems, and extreme value theory.\nRelated preprint"
+    "text": "Stationary models for extremal processes\nI study particle system constructions of stationary max-infinitely divisible processes. As a first step, I developed a construction using random, state-dependent time changes of the underlying particles to modify the temporal dependence structure of the resulting max-id processes while preserving stationarity and the limiting max-stable process. This connects techniques from the theory of Markov processes, Poisson particle systems, and extreme value theory. My current focus is on extending this construction to random fields.\nRelated preprint"
   },
   {
     "objectID": "publications.html",
